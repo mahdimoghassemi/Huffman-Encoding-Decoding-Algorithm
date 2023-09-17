@@ -1,7 +1,5 @@
 # Huffman Encoding and Decoding
 
-![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)
-
 ## Table of Contents
 - [Overview](#overview)
 - [Huffman Encoding](#huffman-encoding)
@@ -12,9 +10,6 @@
 - [Usage](#usage)
   - [Encoding](#encoding)
   - [Decoding](#decoding)
-- [Contributing](#contributing)
-- [License](#license)
-
 ---
 
 ## Overview
@@ -93,19 +88,3 @@ String decodedText = huffman.decode();
 huffman.writeDecodedToFile("decoded_output.txt");
 ```
 
-## Contributing
-
-Contributions to this project are welcome! If you'd like to suggest changes, improvements, or report issues, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and commit them to your branch.
-4. Submit a pull request to the main repository.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it in accordance with the terms of the license.
-
----
-
-**Note**: This README provides an overview of the Huffman encoding and decoding project and instructions for its usage. Detailed code documentation can be found within the individual Java classes in the repository.
