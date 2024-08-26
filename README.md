@@ -88,3 +88,11 @@ String decodedText = huffman.decode();
 huffman.writeDecodedToFile("decoded_output.txt");
 ```
 
+## Contributing
+
+Feel free to submit issues, create pull requests, or suggest improvements. 
+
+## Contact
+
+For any questions or support, please contact mahdimoghassemi@gmail.com.
+
